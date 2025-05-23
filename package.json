@@ -1,0 +1,25 @@
+{
+  "name": "webproject",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "script.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"No tests yet\" && exit 0",
+    "build": "echo \"Static site, nothing to build\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdsubham93/fun1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdsubham93/fun1/issues"
+  },
+  "homepage": "https://github.com/sdsubham93/fun1#readme",
+  "devDependencies": {
+    "eslint": "^9.27.0",
+    "globals": "^16.1.0"
+  }
+}
